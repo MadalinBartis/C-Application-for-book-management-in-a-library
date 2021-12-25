@@ -1,0 +1,72 @@
+D:\Faculta\An3Sem2\II\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+D:\Faculta\An3Sem2\II\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+D:\Faculta\An3Sem2\II\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\Faculta\An3Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+D:\Faculta\An3Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form1.resources
+D:\Faculta\An3Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form2.resources
+D:\Faculta\An3Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+D:\Faculta\An3Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+D:\Faculta\An3Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+D:\Faculta\An3Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+D:\Faculta\An3Sem2\II\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+E:\Faculta\An 3\Sem II\Info Industriala\Proiect\Solution\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+E:\Faculta\An 3\Sem II\Info Industriala\Proiect\Solution\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+E:\Faculta\An 3\Sem II\Info Industriala\Proiect\Solution\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+E:\Faculta\An 3\Sem II\Info Industriala\Proiect\Solution\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+E:\Faculta\An 3\Sem II\Info Industriala\Proiect\Solution\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form1.resources
+E:\Faculta\An 3\Sem II\Info Industriala\Proiect\Solution\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form2.resources
+E:\Faculta\An 3\Sem II\Info Industriala\Proiect\Solution\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+E:\Faculta\An 3\Sem II\Info Industriala\Proiect\Solution\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+E:\Faculta\An 3\Sem II\Info Industriala\Proiect\Solution\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+E:\Faculta\An 3\Sem II\Info Industriala\Proiect\Solution\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+E:\Faculta\An 3\Sem II\Info Industriala\Proiect\Solution\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+E:\Faculta\An 3\Sem II\Info Industriala\Proiect\Solution\Biblioteca\Biblioteca\bin\Debug\Database1.mdf
+E:\Faculta\An 3\Sem II\Info Industriala\Proiect\Solution\Biblioteca\Biblioteca\bin\Debug\Database1_log.ldf
+C:\Users\Madalin\Desktop\Programare Avansata proiect\Biblioteca\Biblioteca\bin\Debug\Database1.mdf
+C:\Users\Madalin\Desktop\Programare Avansata proiect\Biblioteca\Biblioteca\bin\Debug\Database1_log.ldf
+C:\Users\Madalin\Desktop\Programare Avansata proiect\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Madalin\Desktop\Programare Avansata proiect\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Madalin\Desktop\Programare Avansata proiect\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Madalin\Desktop\Programare Avansata proiect\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Madalin\Desktop\Programare Avansata proiect\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form1.resources
+C:\Users\Madalin\Desktop\Programare Avansata proiect\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form2.resources
+C:\Users\Madalin\Desktop\Programare Avansata proiect\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\Madalin\Desktop\Programare Avansata proiect\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+C:\Users\Madalin\Desktop\Programare Avansata proiect\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Madalin\Desktop\Programare Avansata proiect\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Madalin\Desktop\New folder\Programare Avansata proiect\Biblioteca\Biblioteca\bin\Debug\Database1.mdf
+C:\Users\Madalin\Desktop\New folder\Programare Avansata proiect\Biblioteca\Biblioteca\bin\Debug\Database1_log.ldf
+C:\Users\Madalin\Desktop\New folder\Programare Avansata proiect\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Madalin\Desktop\New folder\Programare Avansata proiect\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Madalin\Desktop\New folder\Programare Avansata proiect\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Madalin\Desktop\New folder\Programare Avansata proiect\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Madalin\Desktop\New folder\Programare Avansata proiect\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form1.resources
+C:\Users\Madalin\Desktop\New folder\Programare Avansata proiect\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form2.resources
+C:\Users\Madalin\Desktop\New folder\Programare Avansata proiect\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\Madalin\Desktop\New folder\Programare Avansata proiect\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+C:\Users\Madalin\Desktop\New folder\Programare Avansata proiect\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Madalin\Desktop\New folder\Programare Avansata proiect\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+D:\Madalin\Postuniversitara IAP\An 2\Sem 1\Programare Avansata proiect\Biblioteca\Biblioteca\bin\Debug\Database1.mdf
+D:\Madalin\Postuniversitara IAP\An 2\Sem 1\Programare Avansata proiect\Biblioteca\Biblioteca\bin\Debug\Database1_log.ldf
+D:\Madalin\Postuniversitara IAP\An 2\Sem 1\Programare Avansata proiect\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+D:\Madalin\Postuniversitara IAP\An 2\Sem 1\Programare Avansata proiect\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+D:\Madalin\Postuniversitara IAP\An 2\Sem 1\Programare Avansata proiect\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\Madalin\Postuniversitara IAP\An 2\Sem 1\Programare Avansata proiect\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+D:\Madalin\Postuniversitara IAP\An 2\Sem 1\Programare Avansata proiect\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form1.resources
+D:\Madalin\Postuniversitara IAP\An 2\Sem 1\Programare Avansata proiect\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form2.resources
+D:\Madalin\Postuniversitara IAP\An 2\Sem 1\Programare Avansata proiect\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+D:\Madalin\Postuniversitara IAP\An 2\Sem 1\Programare Avansata proiect\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+D:\Madalin\Postuniversitara IAP\An 2\Sem 1\Programare Avansata proiect\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+D:\Madalin\Postuniversitara IAP\An 2\Sem 1\Programare Avansata proiect\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+D:\Madalin\Postuniversitara IAP\An 2\Sem 2\Disertatie\Biblioteca\Biblioteca\bin\Debug\Database1.mdf
+D:\Madalin\Postuniversitara IAP\An 2\Sem 2\Disertatie\Biblioteca\Biblioteca\bin\Debug\Database1_log.ldf
+D:\Madalin\Postuniversitara IAP\An 2\Sem 2\Disertatie\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+D:\Madalin\Postuniversitara IAP\An 2\Sem 2\Disertatie\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+D:\Madalin\Postuniversitara IAP\An 2\Sem 2\Disertatie\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\Madalin\Postuniversitara IAP\An 2\Sem 2\Disertatie\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+D:\Madalin\Postuniversitara IAP\An 2\Sem 2\Disertatie\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form1.resources
+D:\Madalin\Postuniversitara IAP\An 2\Sem 2\Disertatie\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form2.resources
+D:\Madalin\Postuniversitara IAP\An 2\Sem 2\Disertatie\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+D:\Madalin\Postuniversitara IAP\An 2\Sem 2\Disertatie\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+D:\Madalin\Postuniversitara IAP\An 2\Sem 2\Disertatie\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+D:\Madalin\Postuniversitara IAP\An 2\Sem 2\Disertatie\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
